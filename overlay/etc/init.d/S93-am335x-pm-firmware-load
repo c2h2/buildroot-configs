@@ -1,0 +1,4 @@
+#!/bin/sh
+
+#doing nothing here
+echo "Skip loading AM335x firmware."
